@@ -1,0 +1,703 @@
+# Translation of Themes - Storely in Japanese
+# This file is distributed under the same license as the Themes - Storely package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-29 02:13:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Storely\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Storely is a WooCommerce multipurpose WordPress theme designed for shopping online stores. Storely is suitable for eCommerce websites such as fashion, suit, sneaker, shoes, glasses, accessories, supermarket … or anything you want. The theme is built with lots of cool features and fully eCommerce functionalities in Pro version. Visit Storely pro demo. https://preview.sellerthemes.com/pro/storely"
+msgstr "Storely は、オンラインストアでのショッピング用に設計された WooCommerce に焦点を当てた多目的 WordPress テーマです。Storely は、ファッション、スーツ、スニーカー、靴、メガネ、アクセサリー、スーパーマーケットなど、eコマースのサイトに適しています。テーマは、Pro バージョンの多くのクールな機能と完全なeコマース機能で構築されています。こちらの Storely プロデモをご覧ください：https://preview.sellerthemes.com/pro/storely"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Storely"
+msgstr "Storely"
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:8
+msgid "Install and activate <strong>WooCommerce</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "テーマのすべての機能を最大限活用するには、<strong>WooCommerce</strong> プラグインをインストールし有効化してください。"
+
+#: inc/customizer/customizer-options/storely-pro.php:29
+msgid "Give us Rating"
+msgstr "評価をお願いします"
+
+#: inc/customizer/customizer-options/storely-pro.php:27
+msgid "Ask for Support"
+msgstr "サポートをリクエスト"
+
+#: inc/customizer/customizer-options/storely-pro.php:25
+msgid "Purchase Now"
+msgstr "今すぐ購入"
+
+#: inc/customizer/customizer-options/storely-pro.php:23
+msgid "Pro Demo"
+msgstr "Pro デモ"
+
+#: footer.php:44
+msgid "<a href=\"https://sellerthemes.com/storely/\" target=\"_blank\">Storely</a>"
+msgstr "<a href=\"https://sellerthemes.com/storely/\" target=\"_blank\">Storely</a>"
+
+#: inc/getting-start.php:42
+msgid "Get started with Storely"
+msgstr "Storely を使い始める"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/getting-start.php:36
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "ようこそ！ %1$s を選んで頂き有難うございます！"
+
+#: inc/getting-start.php:29
+msgid "Theme Screenshot"
+msgstr "テーマのスクリーンショット"
+
+#: inc/customizer/customizer-options/storely-pro.php:7
+msgid "Get More Features in Storely Pro"
+msgstr "Storely Pro でより多くの機能を取得"
+
+#: woocommerce/content-product.php:46
+msgid "Sale"
+msgstr "販売"
+
+#: woocommerce/cart/mini-cart.php:105 woocommerce/cart/mini-cart.php:206
+msgid "No products in the cart."
+msgstr "カートに商品はありません。"
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:199
+msgid "Checkout"
+msgstr "チェックアウト"
+
+#: woocommerce/cart/mini-cart.php:97 woocommerce/cart/mini-cart.php:198
+msgid "View Cart"
+msgstr "カートを見る"
+
+#: woocommerce/cart/mini-cart.php:92 woocommerce/cart/mini-cart.php:193
+msgid "Subtotal"
+msgstr "小計"
+
+#: woocommerce/cart/mini-cart.php:47 woocommerce/cart/mini-cart.php:148
+msgid "Remove this item"
+msgstr "この項目を削除"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "全幅ページ"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "ホームページ"
+
+#: template-parts/sections/section-header.php:68
+msgid "Header Above Collapse"
+msgstr "上部のヘッダーを折りたたむ"
+
+#: inc/extras.php:533
+msgid "Menu"
+msgstr "メニュー"
+
+#: template-parts/sections/section-header.php:60
+msgid "Header Close Menu"
+msgstr "ヘッダーメニューを閉じる"
+
+#: template-parts/sections/section-header.php:51
+msgid "Menu Collaped"
+msgstr "折りたたまれたメニュー"
+
+#: inc/extras.php:450
+msgid "CLOSE"
+msgstr "閉じる"
+
+#: inc/extras.php:449
+msgid "Shopping Cart"
+msgstr "ショッピングカート"
+
+#: inc/extras.php:596
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/extras.php:594
+msgid "Search Products Here"
+msgstr "ここで製品を検索"
+
+#: inc/extras.php:478 inc/extras.php:537
+msgid "Browse Categories"
+msgstr "カテゴリーを参照"
+
+#: template-parts/sections/section-browse.php:12
+msgid "active"
+msgstr "アクティブ"
+
+#: template-parts/content/content.php:37
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:54
+#: template-parts/content/content-search.php:50
+msgid "Read More"
+msgstr "続きを読む"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "探しているものが見つからないようです。 おそらく検索が役立つです。"
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "探しているものが見つからないようです。 おそらく検索が役立つでしょう。"
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできていますか？<a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: inc/template-tags.php:212
+msgid "Author: %s"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:208
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: inc/template-tags.php:204
+msgid "Tag Archives: %s"
+msgstr "タグ別アーカイブ: %s"
+
+#: inc/template-tags.php:200
+msgid "Category Archives: %s"
+msgstr "カテゴリー別アーカイブ: %s"
+
+#: inc/template-tags.php:196
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: inc/template-tags.php:192
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: inc/template-tags.php:188
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "%sを編集"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> にコメントを残す"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "タグ:  %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿: %s"
+
+#: inc/extras.php:330
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/extras.php:325
+msgid "Error 404 "
+msgstr "404 エラー"
+
+#: inc/extras.php:321
+msgid "Articles posted by "
+msgstr "投稿者:"
+
+#: inc/extras.php:315
+msgid "Posts tagged "
+msgstr "タグ付きの投稿"
+
+#: inc/extras.php:213
+msgid "Search results for "
+msgstr "検索結果:"
+
+#: inc/extras.php:207
+msgid "Archive by category"
+msgstr "カテゴリーのアーカイブ"
+
+#: inc/extras.php:187
+msgid "Home"
+msgstr "ホームページ"
+
+#: inc/extras.php:185 inc/extras.php:188
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:138 inc/extras.php:435
+msgid "0"
+msgstr "0"
+
+#: inc/extras.php:112
+msgid "This Widget area for WooCommerce Widget"
+msgstr "WooCommerce のウィジェットエリア"
+
+#: inc/extras.php:110
+msgid "WooCommerce Widget Area"
+msgstr "WooCommerce ウィジェットエリア"
+
+#: inc/extras.php:100 inc/extras.php:102
+msgid "Footer Widget"
+msgstr "フッターウィジェット"
+
+#: inc/extras.php:91
+msgid "The Primary Widget Area"
+msgstr "主要なウィジェットエリア"
+
+#: inc/extras.php:89
+msgid "Sidebar Widget Area"
+msgstr "サイドバーウィジェットエリア"
+
+#: inc/extras.php:80
+msgid "Header Widget Area"
+msgstr "ヘッダーウィジェットエリア"
+
+#. translators: %s Comment number
+#: inc/extras.php:65
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s件のコメント"
+
+#: inc/extras.php:62
+msgid "0 Comments"
+msgstr "0件のコメント"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:873
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:906
+msgid "Add Icon"
+msgstr "アイコンを追加"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:868
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:898
+msgid "Remove Icon"
+msgstr "アイコンを削除"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:851
+msgid "Social icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:843
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:838
+msgid "Image type"
+msgstr "画像の形式"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:827
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:823
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:819
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:815
+msgid "Slide Align"
+msgstr "スライドの整列"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:804
+msgid "Slider Image"
+msgstr "スライダー画像"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:778
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:807
+msgid "Upload Image"
+msgstr "画像のアップロード"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:775
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:842
+msgid "Image"
+msgstr "画像"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:740
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:739
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意: 表示されていないアイコンがあります。すべてのアイコンのリストは %1$s で確認してください。"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:734
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:841
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:723
+msgid "Open link in new tab:"
+msgstr "新しいタブで開く"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:686
+msgid "Delete field"
+msgstr "フィールドを削除"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:613
+msgid "Button Label Second"
+msgstr "ボタンラベル2番目"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:509
+msgid "Delete %s"
+msgstr "%s を削除"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:493
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:675
+msgid "Designation"
+msgstr "肩書き"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:485
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:666
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:475
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:542
+msgid "Color"
+msgstr "色"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:445
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:651
+msgid "Video Url"
+msgstr "動画URL"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:431
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:638
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:865
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:887
+msgid "Link"
+msgstr "リンク"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:420
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Button Text"
+msgstr "ボタンのテキスト"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:621
+msgid "link"
+msgstr "リンク"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:404
+msgid "Button Label second"
+msgstr "ボタンラベル2番目"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:396
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:605
+msgid "Button Label"
+msgstr "ボタンのラベル"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:389
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Description"
+msgstr "説明"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:381
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:590
+msgid "Subtitle 5"
+msgstr "サブタイトル 5"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:373
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Subtitle 4"
+msgstr "サブタイトル 4"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:365
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:574
+msgid "Subtitle 3"
+msgstr "サブタイトル 3"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:357
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:566
+msgid "Subtitle 2"
+msgstr "サブタイトル 2"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:349
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:558
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:46
+msgid "Customizer Repeater"
+msgstr "カスタマイザーの繰り返し"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Add new field"
+msgstr "新規フィールドを追加"
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr "無効化"
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:19
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr "インストールと有効化"
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr "おすすめプラグイン"
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:16
+msgid "Recommended Actions"
+msgstr "おすすめ設定"
+
+#: inc/customizer/customizer-options/storely_recommended_plugin.php:12
+#: inc/getting-start.php:40
+msgid "Install and activate <strong>eCommerce Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "このテーマが提供するすべての機能を最大限に活用するために、<strong>eCommerce Companion</strong>プラグインをインストールして有効化します。"
+
+#: inc/customizer/customizer-options/storely-header.php:235
+#: inc/customizer/customizer-options/storely-header.php:254
+msgid "Sticky Header"
+msgstr "上部固定のヘッダー"
+
+#: inc/customizer/customizer-options/storely-header.php:201
+msgid "Product Search"
+msgstr "製品の検索"
+
+#: inc/customizer/customizer-options/storely-header.php:141
+msgid "Browse Category"
+msgstr "カテゴリーを参照"
+
+#: inc/customizer/customizer-options/storely-header.php:122
+msgid "Browse Section"
+msgstr "セクションを参照"
+
+#: inc/customizer/customizer-options/storely-header.php:92
+msgid "Cart"
+msgstr "カート"
+
+#: inc/customizer/customizer-options/storely-header.php:71
+#: inc/customizer/customizer-options/storely-header.php:109
+#: inc/customizer/customizer-options/storely-header.php:160
+#: inc/customizer/customizer-options/storely-header.php:220
+#: inc/customizer/customizer-options/storely-header.php:271
+msgid "Hide/Show"
+msgstr "非表示 / 表示"
+
+#: inc/customizer/customizer-options/storely-header.php:54
+msgid "My Account"
+msgstr "マイアカウント"
+
+#: inc/customizer/customizer-options/storely-header.php:34
+msgid "Header Navigation"
+msgstr "ヘッダーナビゲーション"
+
+#: inc/customizer/customizer-options/storely-header.php:22
+msgid "Site Identity"
+msgstr "サイト基本情報"
+
+#: inc/customizer/customizer-options/storely-general.php:218
+msgid "Opacity"
+msgstr "不透明"
+
+#: inc/customizer/customizer-options/storely-general.php:155
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/customizer-options/storely-general.php:127
+msgid "Min Height"
+msgstr "最小の高さ"
+
+#: inc/customizer/customizer-options/storely-general.php:45
+msgid "Page Breadcrumb"
+msgstr "ページのパンくずリスト"
+
+#: inc/customizer/customizer-options/storely-general.php:34
+msgid "Hide / Show Scroller"
+msgstr "スクローラーを非表示 / 表示"
+
+#: inc/customizer/customizer-options/storely-general.php:15
+msgid "Top Scroller"
+msgstr "トップスクローラー"
+
+#: inc/customizer/customizer-options/storely-general.php:7
+msgid "General"
+msgstr "一般"
+
+#: inc/customizer/customizer-options/storely-footer.php:109
+msgid "opacity"
+msgstr "不透明"
+
+#: inc/customizer/customizer-options/storely-footer.php:92
+#: inc/customizer/customizer-options/storely-general.php:199
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/customizer/customizer-options/storely-footer.php:91
+#: inc/customizer/customizer-options/storely-general.php:198
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/customizer/customizer-options/storely-footer.php:90
+#: inc/customizer/customizer-options/storely-general.php:197
+msgid "Inherit"
+msgstr "継承する"
+
+#: inc/customizer/customizer-options/storely-footer.php:85
+#: inc/customizer/customizer-options/storely-general.php:192
+msgid "Background Attachment"
+msgstr "背景の添付ファイル"
+
+#: inc/customizer/customizer-options/storely-footer.php:67
+#: inc/customizer/customizer-options/storely-general.php:173
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customizer/customizer-options/storely-footer.php:49
+msgid "Footer Background"
+msgstr "フッター背景"
+
+#: inc/customizer/customizer-options/storely-footer.php:39
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-options/storely-footer.php:25
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+
+#: inc/customizer/customizer-options/storely-footer.php:18
+msgid "Below Footer"
+msgstr "フッターの下"
+
+#: inc/customizer/customizer-options/storely-footer.php:10
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer/customizer-options/storely-blog.php:157
+msgid "No. of Blog Display"
+msgstr "表示するブログの数"
+
+#: inc/customizer/customizer-options/storely-blog.php:138
+msgid "Hide / Show Tab"
+msgstr "タブを非表示 / 表示"
+
+#: inc/customizer/customizer-options/storely-blog.php:118
+#: inc/customizer/customizer-options/storely-general.php:105
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/customizer/customizer-options/storely-blog.php:96
+#: inc/customizer/customizer-options/storely-header.php:180
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:341
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:550
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer/customizer-options/storely-blog.php:77
+#: inc/customizer/customizer-options/storely-header.php:12
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/customizer/customizer-options/storely-blog.php:56
+#: inc/customizer/customizer-options/storely-general.php:84
+msgid "Hide / Show"
+msgstr "非表示 / 表示"
+
+#: inc/customizer/customizer-options/storely-blog.php:36
+#: inc/customizer/customizer-options/storely-general.php:65
+msgid "Settings"
+msgstr "設定"
+
+#: inc/customizer/customizer-options/storely-blog.php:15
+msgid "Blog Section"
+msgstr "ブログセクション"
+
+#: inc/customizer/customizer-options/storely-blog.php:7
+msgid "Frontpage Sections"
+msgstr "フロントページセクション"
+
+#: inc/customizer/customizer-notify.php:111
+msgid "Activating"
+msgstr "有効化しています"
+
+#: inc/class-wp-bootstrap-navwalker.php:367
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:60
+msgid "scrollingUp"
+msgstr "scrollingUp"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:48 comments.php:68
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:47 comments.php:67
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:44 comments.php:65
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:21
+msgid "Back to Home"
+msgstr "ホームページへ"
+
+#: 404.php:19
+msgid "Oops You are Lost"
+msgstr "おっとっと！ ページが見つかりませんでした "
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://sellerthemes.com/"
+msgstr "https://sellerthemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://sellerthemes.com/storely-free/"
+msgstr "https://sellerthemes.com/storely-free/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Seller Themes"
+msgstr "Seller Themes"

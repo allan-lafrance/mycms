@@ -1,0 +1,4 @@
+2023-06-01T09:03:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans /home/storage/vhosts/allan-lafrance.students-laplateforme.io/httpdocs/mycms/wp-includes/class-wp-image-editor-imagick.php à la ligne 432
+
+2023-06-01T09:06:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans /home/storage/vhosts/allan-lafrance.students-laplateforme.io/httpdocs/mycms/wp-includes/class-wp-hook.php à la ligne 307
+
